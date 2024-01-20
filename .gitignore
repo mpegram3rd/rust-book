@@ -12,3 +12,20 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+## Jetbrains settings
+.idea
+.fleet
+*.iml
+.gradle
+out/
+bin/
+build/
+gen/
+deps/
+exampleProject
+testData
+.DS_Store
+/pretty_printers_tests/target
+/native-helper/target
+/attributes-info/target
